@@ -34,16 +34,17 @@
 }
 
 .passwo h2 {
-    font-size: 32px;
+    margin-top: 40px;
+    font-size: 36px;
     font-weight: 700;
 }
 
 .passwo p {
-    width: 75%;
+    margin: 35px 0 15px 0;
 }
 
 .vector {
-    background: url(../Ellipse_54.png);
+    background: url(Ellipse_56.png);
     display: flex;
     align-items: center;
     justify-content: center;
