@@ -16,5 +16,4 @@ and as such has no back-end data to draw from or give to.
 This is an illustration of how link multiple pages together with HTML and CSS.
 
 
-The hosted site can be viewed on vercel here - 
-The live site can also be viewed on github here - https://smartbabbe.github.io/Forget-password-page/
+The hosted site can be viewed on vercel here - https://forget-password-page.vercel.app/
